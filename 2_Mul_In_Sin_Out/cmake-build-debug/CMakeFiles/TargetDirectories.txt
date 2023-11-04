@@ -1,0 +1,3 @@
+/Users/welcome/CLionProjects/2_Mul_In_Sin_Out/cmake-build-debug/CMakeFiles/SimpleNN.dir
+/Users/welcome/CLionProjects/2_Mul_In_Sin_Out/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/welcome/CLionProjects/2_Mul_In_Sin_Out/cmake-build-debug/CMakeFiles/rebuild_cache.dir

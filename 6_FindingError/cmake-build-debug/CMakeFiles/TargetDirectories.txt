@@ -1,0 +1,3 @@
+/Users/welcome/CLionProjects/6_FindingError/cmake-build-debug/CMakeFiles/SimpleNN.dir
+/Users/welcome/CLionProjects/6_FindingError/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/welcome/CLionProjects/6_FindingError/cmake-build-debug/CMakeFiles/rebuild_cache.dir

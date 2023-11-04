@@ -1,0 +1,9 @@
+# ninja log v5
+0	63	1697863761445438154	CMakeFiles/SimpleNN.dir/main.c.o	ac521ac9cb985e68
+63	124	1697863761507171428	SimpleNN	84be5dd233ba105c
+0	50	1697863761432364872	CMakeFiles/SimpleNN.dir/simple_neural_networks.c.o	2d371e5153f87d0e
+3	73	1697904896065650970	CMakeFiles/SimpleNN.dir/simple_neural_networks.c.o	7824e5f08748fcbb
+1	70	1697904915810711808	CMakeFiles/SimpleNN.dir/main.c.o	140dffc9f28cdbd1
+70	138	1697904915878841486	SimpleNN	84be5dd233ba105c
+0	52	1697905150060598136	CMakeFiles/SimpleNN.dir/simple_neural_networks.c.o	7824e5f08748fcbb
+52	111	1697905150119310120	SimpleNN	84be5dd233ba105c
