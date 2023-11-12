@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1588907757 source:e:\c-deeplearning\completeneuralnetworklib\3_neuralnetwork_main\neuralnetwork\main.c
+	<stdio.h>
+	<stdlib.h>
+	"nn.h"
+	"utils.h"
+
+1588908176 e:\c-deeplearning\completeneuralnetworklib\3_neuralnetwork_main\neuralnetwork\nn.h
+
+1588903395 e:\c-deeplearning\completeneuralnetworklib\3_neuralnetwork_main\neuralnetwork\utils.h
+	<stdlib.h>
+	<stdio.h>
+
+1588908176 source:e:\c-deeplearning\completeneuralnetworklib\3_neuralnetwork_main\neuralnetwork\utils.c
+	"utils.h"
+
+1588908194 source:e:\c-deeplearning\completeneuralnetworklib\3_neuralnetwork_main\neuralnetwork\nn.c
+	"nn.h"
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+
+1588908194 source:e:\c-deeplearning\completeneuralnetworklib\4_neuralnetwork_testing\neuralnetwork\nn.c
+	"nn.h"
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+
+1588908176 e:\c-deeplearning\completeneuralnetworklib\4_neuralnetwork_testing\neuralnetwork\nn.h
+
+1588908176 source:e:\c-deeplearning\completeneuralnetworklib\4_neuralnetwork_testing\neuralnetwork\utils.c
+	"utils.h"
+
+1588903395 e:\c-deeplearning\completeneuralnetworklib\4_neuralnetwork_testing\neuralnetwork\utils.h
+	<stdlib.h>
+	<stdio.h>
+
